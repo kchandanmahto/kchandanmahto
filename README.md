@@ -107,30 +107,111 @@ I'm a **B.Tech Computer Science & Engineering student** focused on the intersect
 </div>
 
 ---
-
-# 📊 GitHub Analytics
+<!-- ========================= GITHUB ANALYTICS ========================= -->
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kchandanmahto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+# 📊 GitHub Analytics
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchandanmahto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<p>
+  <img src="https://img.shields.io/badge/GITHUB-ANALYTICS-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CODE-INSIGHTS-06B6D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OPEN-SOURCE-EC4899?style=for-the-badge"/>
+</p>
+
+<p>
+  <i>Consistency • Code • Contribution • Growth</i>
+</p>
 
 <br>
 
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=kchandanmahto&theme=tokyonight&hide_border=true"/>
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api?username=kchandanmahto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Chandan's%20GitHub%20Stats"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchandanmahto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img
+width="80%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=kchandanmahto&theme=tokyonight&hide_border=true&fire=EC4899&ring=7C3AED&currStreakLabel=06B6D4&sideLabels=FFFFFF"
+/>
+
+<br><br>
+
+<table>
+<tr>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/BUILDING-7C3AED?style=for-the-badge"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/LEARNING-06B6D4?style=for-the-badge"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/SHIPPING-EC4899?style=for-the-badge"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/IMPROVING-F59E0B?style=for-the-badge"/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🐍 Contribution Activity
+<!-- ========================= CONTRIBUTION SNAKE ========================= -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CONTRIBUTION%20JOURNEY-7C3AED?style=for-the-badge"/>
+# 🐍 Contribution Activity
+
+<p>
+  <img src="https://img.shields.io/badge/CONTRIBUTION-JOURNEY-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CODE-EVERYDAY-06B6D4?style=for-the-badge"/>
+</p>
+
+<p>
+  <i>Every contribution is a step forward.</i>
+</p>
 
 <br>
+
+<table>
+<tr>
+<td align="center">
 
 <picture>
 
@@ -143,13 +224,28 @@ media="(prefers-color-scheme: light)"
 srcset="https://raw.githubusercontent.com/kchandanmahto/kchandanmahto/output/github-contribution-grid-snake.svg">
 
 <img
+width="900"
 alt="GitHub Contribution Snake"
 src="https://raw.githubusercontent.com/kchandanmahto/kchandanmahto/output/github-contribution-grid-snake.svg">
 
 </picture>
 
-</div>
+</td>
+</tr>
+</table>
 
+<br>
+
+<img src="https://img.shields.io/badge/LEARN-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BUILD-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SHIP-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REPEAT-EC4899?style=for-the-badge"/>
+
+<br><br>
+
+<code>CODE → COMMIT → CREATE → CONTRIBUTE → GROW</code>
+
+</div>
 ---
 
 # 🎯 What I'm Building
