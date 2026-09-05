@@ -1,277 +1,314 @@
-<!-- ======================= HEADER ======================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:06B6D4,100:EC4899&height=220&section=header&text=Chandan%20Kumar&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20Engineer%20%20%7C%20%20Full-Stack%20Developer%20%20%7C%20%20Tech%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=CHANDAN%20KUMAR&fontSize=58&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%20%7C%20%20FULL-STACK%20DEVELOPER%20%20%7C%20%20TECH%20ENTHUSIAST&descAlignY=60&descSize=17&animation=fadeIn&color=gradient"/>
+
+<br>
 
 # 👋 Hey, I'm **Chandan Kumar**
 
 ### 🤖 AI/ML Engineer &nbsp;•&nbsp; 💻 Full-Stack Developer &nbsp;•&nbsp; 🚀 Tech Enthusiast
 
 <p>
-Building intelligent solutions, scalable web applications and real-world digital products.
+I build intelligent systems, modern web applications and real-world digital products.
 </p>
 
-<p>
+<br>
+
 <a href="https://ckmhto-ai.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-CKMHTO.AI-7C3AED?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20CKMHTO.AI-7C3AED?style=for-the-badge&labelColor=111827"/>
 </a>
+&nbsp;
 <a href="https://github.com/kchandanmahto">
 <img src="https://img.shields.io/badge/GITHUB-kchandanmahto-181717?style=for-the-badge&logo=github"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/mahtochandan/">
-<img src="https://img.shields.io/badge/LINKEDIN-Chandan%20Kumar-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:pvtkcmog@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-pvtkcmog%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.instagram.com/ckmhto.ai/">
-<img src="https://img.shields.io/badge/INSTAGRAM-ckmhto.ai-E4405F?style=for-the-badge&logo=instagram"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-</p>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=kchandanmahto&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<!-- ======================= ABOUT ======================= -->
+## 👨‍💻 About
 
-## 👨‍💻 About Me
+I'm a **B.Tech Computer Science & Engineering student** focused on building products at the intersection of **Artificial Intelligence, modern frontend engineering and scalable backend systems**.
 
-Hi, I'm **Chandan Kumar**, a **B.Tech Computer Science & Engineering student** passionate about **AI/ML, Full-Stack Development and modern software engineering**.
-
-I love transforming ideas into practical products by combining **Artificial Intelligence + Web Technologies + Engineering**.
-
-### ⚡ What I Do
-
-- 🤖 **AI / Machine Learning**
-- 🧠 **Generative AI & LLM Applications**
-- 👁️ **Computer Vision & NLP**
-- 🌐 **Full-Stack Web Development**
-- 🐍 **Python Development**
-- 🐳 **Docker & Deployment**
-- 🧩 **DSA & Problem Solving**
-- 🚀 **Real-World Product Development**
-
-> **Learn → Build → Experiment → Improve → Repeat.**
-
----
-
-<!-- ======================= TECH STACK ======================= -->
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript&perline=8" />
-
-### 🌐 Development
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&perline=8" />
-
-### 🤖 AI / ML
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=8" />
-<br>
-<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=flat-square&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-111827?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/NLP-111827?style=flat-square&logo=google&logoColor=4285F4"/>
-<img src="https://img.shields.io/badge/Generative%20AI-111827?style=flat-square&logo=openai&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/LLMs-111827?style=flat-square&logo=ai&logoColor=FFFFFF"/>
-
-### 🗄️ Database & DevOps
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,github,docker,linux,vercel&perline=8" />
-
-</div>
-
----
-
-<!-- ======================= PROJECTS ======================= -->
-
-## 🚀 Featured Projects
+I enjoy taking an idea from **concept → architecture → interface → intelligent system → deployment**.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI Smart Attendance
+### 🧠 Engineering Focus
 
-AI-powered attendance system using:
-
-`Python` `Flask` `OpenCV` `SQLite`
-
-Face recognition based automated attendance system.
-
-</td>
-
-<td width="50%">
-
-### 🧠 AI Mock Interview
-
-AI-powered interview preparation platform using:
-
-`AI` `LLM` `React` `Node.js`
-
-Real-time intelligent interview experience.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📄 AI Resume Builder
-
-Smart resume creation platform using:
-
-`Generative AI` `React` `Node.js`
-
-Generate professional resumes with AI assistance.
+- 🤖 Artificial Intelligence
+- 🧬 Machine Learning
+- ✨ Generative AI
+- 🧠 LLM Applications
+- 👁️ Computer Vision
+- 💬 NLP
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 CKMHTO.AI
+### ⚡ Development Focus
 
-Personal developer portfolio built with:
-
-`React` `Tailwind CSS` `JavaScript` `Vercel`
-
-Modern interactive developer experience.
+- 🎨 Modern Frontend
+- 🌐 Full-Stack Applications
+- 🐍 Python Engineering
+- 🔌 REST APIs
+- 🗄️ Database Systems
+- 🐳 Docker & Deployment
 
 </td>
 </tr>
 </table>
 
+> **Think deeply → Build beautifully → Engineer reliably.**
+
 ---
 
-<!-- ======================= GITHUB STATS ======================= -->
-
-## 📊 GitHub Analytics
+# 🛠️ Technology
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kchandanmahto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchandanmahto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,react,nodejs,express,mongodb,mysql,sqlite,git,github,docker,linux,vercel&perline=9"/>
 
 <br><br>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kchandanmahto&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative%20AI-EC4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-22C55E?style=flat-square"/>
 
 </div>
 
 ---
 
-<!-- ======================= CONTRIBUTION SNAKE ======================= -->
+# 🚀 Selected Work
 
-## 🐍 Contribution Snake
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 AI Smart Attendance
+
+AI-powered attendance platform using **Face Recognition**.
+
+**Stack**
+
+`Python` `Flask` `OpenCV` `SQLite`
+
+Automates student identification and attendance tracking through computer vision.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧠 AI Mock Interview
+
+Intelligent interview preparation platform powered by AI.
+
+**Stack**
+
+`React` `Node.js` `LLM` `AI`
+
+Designed to simulate realistic interview experiences and provide intelligent feedback.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📄 AI Resume Builder
+
+AI-assisted platform for creating professional resumes.
+
+**Stack**
+
+`React` `Node.js` `Generative AI`
+
+Transforms user information into structured, professional resume content.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌐 CKMHTO.AI
+
+Personal developer portfolio focused on modern interactive UI.
+
+**Stack**
+
+`React` `Tailwind CSS` `JavaScript` `Vercel`
+
+A digital space showcasing engineering work, projects and capabilities.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<p>
-Watch my contributions come alive 🐍
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kchandanmahto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchandanmahto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br><br>
+
+<img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=kchandanmahto&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<p><b>Every contribution tells part of the journey.</b></p>
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/kchandanmahto/kchandanmahto/output/github-contribution-grid-snake-dark.svg">
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/kchandanmahto/kchandanmahto/output/github-contribution-grid-snake.svg">
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/kchandanmahto/kchandanmahto/output/github-contribution-grid-snake-dark.svg">
 
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/kchandanmahto/kchandanmahto/output/github-contribution-grid-snake.svg">
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/kchandanmahto/kchandanmahto/output/github-contribution-grid-snake.svg">
+
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/kchandanmahto/kchandanmahto/output/github-contribution-grid-snake.svg">
+
 </picture>
 
 </div>
 
 ---
 
-<!-- ======================= CURRENT FOCUS ======================= -->
-
-## 🎯 Current Focus
+# 🎯 What I'm Building
 
 <div align="center">
 
-| 🤖 AI Engineering | 🌐 Full-Stack | ⚙️ Engineering |
-|:---:|:---:|:---:|
-| Generative AI | React | REST APIs |
-| Machine Learning | Node.js | Git & GitHub |
-| Deep Learning | Backend | Docker |
-| LLM Applications | Databases | Deployment |
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 🤖 AI ENGINEERING
+
+Generative AI  
+LLM Applications  
+Machine Learning  
+Computer Vision  
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌐 PRODUCT ENGINEERING
+
+React  
+Node.js  
+REST APIs  
+Modern UI  
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ SYSTEM ENGINEERING
+
+Databases  
+Git & GitHub  
+Docker  
+Deployment  
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-<!-- ======================= SKILLS ======================= -->
-
-## 🧠 Engineering Mindset
+# 🧩 Engineering Philosophy
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20Engineering-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full--Stack-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-F59E0B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20Source-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Continuous%20Learning-EC4899?style=for-the-badge"/>
-
-<br><br>
-
-**Think → Design → Code → Test → Deploy → Scale**
-
-</div>
-
----
-
-<!-- ======================= CONNECT ======================= -->
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://ckmhto-ai.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-CKMHTO.AI-7C3AED?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mahtochandan/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/kchandanmahto">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:pvtkcmog@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.instagram.com/ckmhto.ai/">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 *Building the future, one intelligent solution at a time.*
+### **Good software solves problems.**
+### **Great software solves them beautifully.**
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=kchandanmahto&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
-
-<br><br>
-
-**⭐ Thanks for visiting my profile! ❤️**
+`DISCOVER` → `DESIGN` → `BUILD` → `TEST` → `DEPLOY` → `IMPROVE`
 
 </div>
 
-<!-- ======================= FOOTER ======================= -->
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:06B6D4,100:7C3AED&height=120&section=footer"/>
+# 🤝 Let's Build Something
+
+<div align="center">
+
+<p>
+Have an idea, project or collaboration in mind?
+</p>
+
+<a href="https://ckmhto-ai.vercel.app/">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-7C3AED?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mahtochandan/">
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:pvtkcmog@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<br><br>
+
+**Open to learning • Building • Collaborating • Creating**
+
+<br><br>
+
+❤️ **Thanks for visiting my profile.**
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient"/>
+
+</div>
