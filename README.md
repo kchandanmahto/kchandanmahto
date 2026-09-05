@@ -1,21 +1,22 @@
 <div align="center">
 
-# 👋 Hey, I'm Chandan Kumar
+# 👋 Hey, I'm **Chandan Kumar**
 
-### 🚀 AI/ML Engineer • Full-Stack Developer • AI Enthusiast
-
-<p>
-  <b>Building intelligent solutions, scalable web applications & real-world digital products.</b>
-</p>
+### 🤖 AI/ML Engineer &nbsp;•&nbsp; 💻 Full-Stack Developer &nbsp;•&nbsp; 🚀 Tech Enthusiast
 
 <p>
-  <a href="https://ckmhto-ai.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-black?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/kchandanmahto">
-    <img src="https://img.shields.io/badge/GitHub-kchandanmahto-black?style=for-the-badge&logo=github" />
-  </a>
+  Building intelligent solutions, scalable web applications and
+  real-world digital products.
 </p>
+
+<br>
+
+<a href="https://ckmhto-ai.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-CKMHTO.AI-7C3AED?style=for-the-badge" />
+</a>
+<a href="https://github.com/kchandanmahto">
+  <img src="https://img.shields.io/badge/GitHub-kchandanmahto-181717?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
@@ -23,44 +24,15 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Chandan Kumar**, a B.Tech Computer Science & Engineering student and an aspiring **AI/ML Engineer & Full-Stack Developer**.
+Hi, I'm **Chandan Kumar**, a **B.Tech Computer Science & Engineering student**
+focused on **AI/ML and Full-Stack Development**.
 
-I enjoy turning ideas into practical, scalable and intelligent software solutions.
-
-My interests include:
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Generative AI & Large Language Models
-- 🌐 Full-Stack Web Development
-- 🐍 Python Development
-- 📊 Data & Intelligent Applications
-- 🐳 Docker & Deployment
-- 🧩 Problem Solving & DSA
-- 🚀 Building real-world projects
-
-> **Learn → Build → Break → Fix → Improve → Repeat.**
-
----
-
-## 🚀 What I Build
+I enjoy transforming ideas into practical software solutions by combining
+**Artificial Intelligence, Web Development and modern software engineering**.
 
 ```text
-🤖 AI & Machine Learning
-    ├── Machine Learning Applications
-    ├── Deep Learning
-    ├── NLP
-    ├── Generative AI
-    └── LLM-powered Applications
-
-🌐 Full-Stack Applications
-    ├── Modern Frontend
-    ├── REST APIs
-    ├── Backend Systems
-    ├── Authentication
-    └── Database-driven Applications
-
-⚙️ Engineering & Deployment
-    ├── Git & GitHub
-    ├── Docker
-    ├── API Integration
-    └── Cloud Deployment
+🧠 AI / ML              → Intelligent Applications
+🌐 Full-Stack           → Modern Web Applications
+🐍 Python               → AI & Backend Development
+⚙️ Software Engineering → APIs • Databases • Deployment
+🚀 Problem Solving      → DSA • Projects • Continuous Learning
