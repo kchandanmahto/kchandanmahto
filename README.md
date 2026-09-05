@@ -2,40 +2,22 @@
 
 <!-- ===================== HERO ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=CHANDAN%20KUMAR&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%20•%20%20FULL-STACK%20DEVELOPER%20%20•%20%20TECH%20ENTHUSIAST&descAlignY=61&descSize=17&animation=fadeIn&color=0:7C3AED,20:4F46E5,40:06B6D4,60:0EA5E9,80:EC4899,100:F59E0B"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=CHANDAN%20KUMAR&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%20•%20%20FULL-STACK%20DEVELOPER%20%20•%20%20TECH%20ENTHUSIAST&descAlignY=61&descSize=16&animation=fadeIn&color=0:7C3AED,20:2563EB,40:06B6D4,60:EC4899,80:F59E0B,100:22C55E"/>
 
 <p>
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-7C3AED?style=for-the-badge&logo=probot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FRONTEND-06B6D4?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FULL--STACK-2563EB?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ENGINEERING-EC4899?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FML-7C3AED?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/FRONTEND-06B6D4?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/FULL--STACK-2563EB?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/ENGINEERING-EC4899?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </p>
 
-<p>
-<b>Building intelligent systems, beautiful interfaces and real-world digital products.</b>
-</p>
+<p><b>Building intelligent systems, beautiful interfaces and real-world digital products.</b></p>
 
-<br>
-
-<a href="https://ckmhto-ai.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-7C3AED?style=for-the-badge&labelColor=111827"/>
-</a>
-<a href="https://github.com/kchandanmahto">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/mahtochandan/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:pvtkcmog@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-<a href="https://www.instagram.com/ckmhto.ai/">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=kchandanmahto&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
+<a href="https://ckmhto-ai.vercel.app/"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-7C3AED?style=for-the-badge&labelColor=111827"/></a>
+<a href="https://github.com/kchandanmahto"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/mahtochandan/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:pvtkcmog@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail"/></a>
+<a href="https://www.instagram.com/ckmhto.ai/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram"/></a>
 
 </div>
 
@@ -48,40 +30,24 @@
 <table>
 <tr>
 
-<td width="52%" valign="top">
+<td width="50%" valign="top">
 
 ### 🚀 Who I Am
 
-I'm a **B.Tech Computer Science & Engineering student** focused on the intersection of:
-
-**🤖 Artificial Intelligence**  
-**🎨 Frontend Engineering**  
-**⚙️ Backend Systems**  
-**🚀 Product Development**
+**B.Tech Computer Science & Engineering student** focused on **Artificial Intelligence, Frontend Engineering, Backend Systems & Product Development.**
 
 </td>
 
-<td width="48%" valign="top">
+<td width="50%" valign="top">
 
 ### ⚡ How I Build
 
-💡 **Concept** → 🏗️ **Architecture**  
-🎨 **Interface** → 🧠 **Intelligence**  
-🔌 **Integration** → 🚀 **Deployment**
-
-<br>
-
-<img src="https://img.shields.io/badge/BUILD-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/LEARN-06B6D4?style=flat-square"/>
-<img src="https://img.shields.io/badge/EXPERIMENT-EC4899?style=flat-square"/>
-<img src="https://img.shields.io/badge/IMPROVE-F59E0B?style=flat-square"/>
+💡 Concept → 🏗️ Architecture → 🎨 Interface → 🧠 Intelligence → 🔌 Integration → 🚀 Deployment
 
 </td>
 
 </tr>
 </table>
-
-<br>
 
 <code>Think deeply → Build beautifully → Engineer reliably.</code>
 
@@ -97,121 +63,43 @@ I'm a **B.Tech Computer Science & Engineering student** focused on the intersect
 
 <br>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-8B5CF6?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8B5CF6?style=flat-square"/>
 <img src="https://img.shields.io/badge/NLP-06B6D4?style=flat-square"/>
 <img src="https://img.shields.io/badge/Generative%20AI-EC4899?style=flat-square"/>
 <img src="https://img.shields.io/badge/LLMs-F59E0B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-22C55E?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-22C55E?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square"/>
 
 </div>
 
 ---
-<!-- ========================= GITHUB ANALYTICS ========================= -->
-
-<div align="center">
 
 # 📊 GitHub Analytics
 
-<p>
-  <img src="https://img.shields.io/badge/GITHUB-ANALYTICS-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CODE-INSIGHTS-06B6D4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OPEN-SOURCE-EC4899?style=for-the-badge"/>
-</p>
+<div align="center">
 
-<p>
-  <i>Consistency • Code • Contribution • Growth</i>
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kchandanmahto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=GitHub%20Stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchandanmahto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Top%20Languages"/>
 
 <br>
 
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=kchandanmahto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Chandan's%20GitHub%20Stats"
-/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchandanmahto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages"
-/>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img
-width="80%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=kchandanmahto&theme=tokyonight&hide_border=true&fire=EC4899&ring=7C3AED&currStreakLabel=06B6D4&sideLabels=FFFFFF"
-/>
-
-<br><br>
-
-<table>
-<tr>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/BUILDING-7C3AED?style=for-the-badge"/>
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/LEARNING-06B6D4?style=for-the-badge"/>
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/SHIPPING-EC4899?style=for-the-badge"/>
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/IMPROVING-F59E0B?style=for-the-badge"/>
-
-</td>
-
-</tr>
-</table>
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=kchandanmahto&theme=tokyonight&hide_border=true&fire=EC4899&ring=7C3AED&currStreakLabel=06B6D4"/>
 
 </div>
 
 ---
 
-<!-- ========================= CONTRIBUTION SNAKE ========================= -->
+# 🐍 Contribution Activity
 
 <div align="center">
 
-# 🐍 Contribution Activity
-
 <p>
-  <img src="https://img.shields.io/badge/CONTRIBUTION-JOURNEY-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CODE-EVERYDAY-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CONTRIBUTION-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JOURNEY-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GROWTH-EC4899?style=for-the-badge"/>
 </p>
-
-<p>
-  <i>Every contribution is a step forward.</i>
-</p>
-
-<br>
-
-<table>
-<tr>
-<td align="center">
 
 <picture>
 
@@ -224,28 +112,14 @@ media="(prefers-color-scheme: light)"
 srcset="https://raw.githubusercontent.com/kchandanmahto/kchandanmahto/output/github-contribution-grid-snake.svg">
 
 <img
-width="900"
+width="90%"
 alt="GitHub Contribution Snake"
 src="https://raw.githubusercontent.com/kchandanmahto/kchandanmahto/output/github-contribution-grid-snake.svg">
 
 </picture>
 
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://img.shields.io/badge/LEARN-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BUILD-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SHIP-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REPEAT-EC4899?style=for-the-badge"/>
-
-<br><br>
-
-<code>CODE → COMMIT → CREATE → CONTRIBUTE → GROW</code>
-
 </div>
+
 ---
 
 # 🎯 What I'm Building
@@ -255,42 +129,36 @@ src="https://raw.githubusercontent.com/kchandanmahto/kchandanmahto/output/github
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-<img src="https://img.shields.io/badge/🤖%20AI%20ENGINEERING-7C3AED?style=for-the-badge"/>
+### 🤖 AI ENGINEERING
 
-<br><br>
-
-`Generative AI`  
-`LLMs`  
-`Machine Learning`  
-`Computer Vision`
+🟣 `Generative AI`  
+🔵 `LLMs`  
+🟢 `Machine Learning`  
+🟠 `Computer Vision`
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-<img src="https://img.shields.io/badge/🌐%20PRODUCT%20ENGINEERING-06B6D4?style=for-the-badge"/>
+### 🌐 PRODUCT ENGINEERING
 
-<br><br>
-
-`React`  
-`Node.js`  
-`REST APIs`  
-`Modern UI`
+🔵 `React`  
+🟣 `Node.js`  
+🩷 `REST APIs`  
+🟢 `Modern UI`
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-<img src="https://img.shields.io/badge/⚙️%20SYSTEM%20ENGINEERING-EC4899?style=for-the-badge"/>
+### ⚙️ SYSTEM ENGINEERING
 
-<br><br>
-
-`Databases`  
-`Git & GitHub`  
-`Docker`  
-`Deployment`
+🟠 `Databases`  
+🔵 `Git & GitHub`  
+🟢 `Docker`  
+🩷 `Deployment`
 
 </td>
 
@@ -305,46 +173,34 @@ src="https://raw.githubusercontent.com/kchandanmahto/kchandanmahto/output/github
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/THINK-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DESIGN-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BUILD-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TEST-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DEPLOY-F59E0B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IMPROVE-EC4899?style=for-the-badge"/>
-
-<br><br>
-
-### 💡 Good software solves problems.
-### ✨ Great software solves them beautifully.
+<img src="https://img.shields.io/badge/THINK-7C3AED?style=flat-square"/>
+→
+<img src="https://img.shields.io/badge/DESIGN-4F46E5?style=flat-square"/>
+→
+<img src="https://img.shields.io/badge/BUILD-06B6D4?style=flat-square"/>
+→
+<img src="https://img.shields.io/badge/TEST-22C55E?style=flat-square"/>
+→
+<img src="https://img.shields.io/badge/DEPLOY-F59E0B?style=flat-square"/>
+→
+<img src="https://img.shields.io/badge/IMPROVE-EC4899?style=flat-square"/>
 
 <br>
 
-<code>DISCOVER</code>
-&nbsp;→&nbsp;
-<code>DESIGN</code>
-&nbsp;→&nbsp;
-<code>BUILD</code>
-&nbsp;→&nbsp;
-<code>TEST</code>
-&nbsp;→&nbsp;
-<code>DEPLOY</code>
-&nbsp;→&nbsp;
-<code>IMPROVE</code>
+### 💡 Good software solves problems. &nbsp; ✨ Great software solves them beautifully.
+
+<br>
+
+<code>DISCOVER → DESIGN → BUILD → TEST → DEPLOY → IMPROVE</code>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/BUILDING%20THE%20FUTURE%20ONE%20INTELLIGENT%20SOLUTION%20AT%20A%20TIME-111827?style=for-the-badge"/>
-
-<br><br>
-
-❤️ <b>Thanks for visiting my profile.</b>
+❤️ **Thanks for visiting my profile.**
 
 </div>
 
-<br>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:EC4899,20:F59E0B,40:06B6D4,60:2563EB,80:7C3AED,100:EC4899"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:EC4899,20:F59E0B,40:22C55E,60:06B6D4,80:2563EB,100:7C3AED"/>
 
 </div>
