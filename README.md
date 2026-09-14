@@ -57,11 +57,6 @@
 
 <div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/CONTRIBUTION-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JOURNEY-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GROWTH-EC4899?style=for-the-badge"/>
-</p>
 
 <picture>
 
