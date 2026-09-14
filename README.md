@@ -53,44 +53,6 @@
 
 </div>
 
----
-
-# 🛠️ Technology
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,react,nodejs,express,mongodb,mysql,sqlite,git,github,docker,linux,vercel&perline=9"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/ML-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLP-06B6D4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Generative%20AI-EC4899?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLMs-F59E0B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-22C55E?style=flat-square"/>
-<img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square"/>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kchandanmahto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=GitHub%20Stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchandanmahto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Top%20Languages"/>
-
-<br>
-
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=kchandanmahto&theme=tokyonight&hide_border=true&fire=EC4899&ring=7C3AED&currStreakLabel=06B6D4"/>
-
-</div>
-
----
-
 # 🐍 Contribution Activity
 
 <div align="center">
