@@ -23,7 +23,7 @@
 
 ---
 
-## 👨‍💻 About
+<!-- ## 👨‍💻 About
 
 <div align="center">
 
@@ -51,7 +51,7 @@
 
 <code>Think deeply → Build beautifully → Engineer reliably.</code>
 
-</div>
+</div> -->
 
 # 🐍 Contribution Activity
 
