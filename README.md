@@ -78,7 +78,7 @@ src="https://raw.githubusercontent.com/kchandanmahto/kchandanmahto/output/github
 </div>
 
 ---
-
+<!-- 
 # 🎯 What I'm Building
 
 <div align="center">
@@ -122,7 +122,7 @@ src="https://raw.githubusercontent.com/kchandanmahto/kchandanmahto/output/github
 </tr>
 </table>
 
-</div>
+</div> -->
 
 ---
 
